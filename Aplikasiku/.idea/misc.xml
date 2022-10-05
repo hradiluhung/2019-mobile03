@@ -3,9 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Kuliah/2. Kegiatan Kuliah/Semester 5/2. Prak. Pemrograman Mobile (B)/Belajar dari modul/2019-mobile03/Aplikasiku/app/src/main/res/drawable/button_red.xml" value="0.166" />
         <entry key="..\:/Kuliah/2. Kegiatan Kuliah/Semester 5/2. Prak. Pemrograman Mobile (B)/Belajar dari modul/2019-mobile03/Aplikasiku/app/src/main/res/font/font.xml" value="0.26145833333333335" />
+        <entry key="..\:/Kuliah/2. Kegiatan Kuliah/Semester 5/2. Prak. Pemrograman Mobile (B)/Belajar dari modul/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
         <entry key="..\:/Kuliah/2. Kegiatan Kuliah/Semester 5/2. Prak. Pemrograman Mobile (B)/Belajar dari modul/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Kuliah/2. Kegiatan Kuliah/Semester 5/2. Prak. Pemrograman Mobile (B)/Belajar dari modul/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Kuliah/2. Kegiatan Kuliah/Semester 5/2. Prak. Pemrograman Mobile (B)/Belajar dari modul/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_reset_password.xml" value="0.25" />
+        <entry key="..\:/Kuliah/2. Kegiatan Kuliah/Semester 5/2. Prak. Pemrograman Mobile (B)/Belajar dari modul/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_success_login.xml" value="0.25" />
+        <entry key="..\:/Kuliah/2. Kegiatan Kuliah/Semester 5/2. Prak. Pemrograman Mobile (B)/Belajar dari modul/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_success_reset_password.xml" value="0.25" />
+        <entry key="..\:/Kuliah/2. Kegiatan Kuliah/Semester 5/2. Prak. Pemrograman Mobile (B)/Belajar dari modul/2019-mobile03/Aplikasiku/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
       </map>
     </option>
   </component>
